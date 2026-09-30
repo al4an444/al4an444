@@ -6,7 +6,7 @@
 Self-taught security researcher. I look for vulnerabilities in widely used software and disclose them responsibly.
 Open to junior roles in **application security, vulnerability research or security engineering** — Netherlands, Madrid or remote.
 
-[Website](https://al4an444.github.io) · [LinkedIn](https://linkedin.com/in/alan-o-b70724290) · [alanortega7312@gmail.com](mailto:alanortega7312@gmail.com)
+[Website](https://al4an444.github.io) · [LinkedIn](https://linkedin.com/in/alan-o-b70724290) · [Instagram](https://www.instagram.com/_.alaaan._5/) · [alanortega7312@gmail.com](mailto:alanortega7312@gmail.com)
 
 ## Findings
 
@@ -14,7 +14,7 @@ Open to junior roles in **application security, vulnerability research or securi
 |---|---|---|---|---|
 | 01 | **Google** · grpc-go | Authentication bypass in the xDS RBAC engine: the authenticated-principal matcher fell through from URI/DNS SANs to the certificate's Subject DN. Credited in the release notes. | CVSS 7.5 | Fixed · [v1.81.1](https://github.com/grpc/grpc-go/releases/tag/v1.81.1) · [PR #9111](https://github.com/grpc/grpc-go/pull/9111) |
 | 02 | **Google** · protobuf-go | `prototext` recursion limit bypassed on the unknown-field skip path, crashing the process with an unrecoverable stack overflow. Reported it and authored the fix. | Denial of service | Merged · [CL 774741](https://go-review.googlesource.com/c/protobuf/+/774741) |
-| 03 | **Microsoft** · MSRC | — | High | Under review |
+| 03 | **Microsoft** · Azure msi-acrpull | The ACR server field of an `AcrPullBinding` was not restricted to trusted registry domains, so the controller could send its Azure (ARM) bearer token to an attacker-controlled endpoint. Confirmed by MSRC. | Important · Information disclosure | Fixed · [PR #129](https://github.com/Azure/msi-acrpull/pull/129) |
 | 04 | **NVIDIA** · PSIRT | — | High | Reproduced · under review |
 
 <sub>Open reports stay at vendor, severity and status until the vendor publishes.</sub>
