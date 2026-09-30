@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t">
+  <title id="t">Alan Ortega Álamo — Cybersecurity · Vulnerability research</title>
+  <rect width="1200" height="340" fill="#fafaf8"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#141414"/>
+  <rect x="48" y="64" width="28" height="28" fill="#d6292b"/>
+  <text x="92" y="88" fill="#141414" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="3">SECURITY RESEARCHER</text>
+  <text x="44" y="232" fill="#141414" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="112" font-weight="700" letter-spacing="-4" textLength="1108" lengthAdjust="spacingAndGlyphs">ALAN ORTEGA ÁLAMO</text>
+  <rect x="48" y="268" width="1104" height="3" fill="#141414"/>
+  <text x="48" y="306" fill="#555555" font-family="SF Mono, Consolas, DejaVu Sans Mono, monospace" font-size="20">grpc-go · CVSS 7.5 · fixed in v1.81.1</text>
+  <text x="1152" y="306" fill="#555555" font-family="SF Mono, Consolas, DejaVu Sans Mono, monospace" font-size="20" text-anchor="end">Netherlands · Madrid · remote</text>
+</svg>
