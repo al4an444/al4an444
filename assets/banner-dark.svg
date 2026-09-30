@@ -7,5 +7,5 @@
   <text x="44" y="232" fill="#f5f5f5" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="112" font-weight="700" letter-spacing="-4" textLength="1108" lengthAdjust="spacingAndGlyphs">ALAN ORTEGA ÁLAMO</text>
   <rect x="48" y="268" width="1104" height="3" fill="#f0f0f0"/>
   <text x="48" y="306" fill="#9aa0a6" font-family="SF Mono, Consolas, DejaVu Sans Mono, monospace" font-size="20">grpc-go · CVSS 7.5 · fixed in v1.81.1</text>
-  <text x="1152" y="306" fill="#9aa0a6" font-family="SF Mono, Consolas, DejaVu Sans Mono, monospace" font-size="20" text-anchor="end">Netherlands · Madrid · remote</text>
+  <text x="1152" y="306" fill="#9aa0a6" font-family="SF Mono, Consolas, DejaVu Sans Mono, monospace" font-size="20" text-anchor="end">Madrid · remote</text>
 </svg>

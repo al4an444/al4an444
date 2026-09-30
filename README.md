@@ -4,7 +4,7 @@
 </picture>
 
 Self-taught security researcher. I look for vulnerabilities in widely used software and disclose them responsibly.
-Open to junior roles in **application security, vulnerability research or security engineering** — Netherlands, Madrid or remote.
+Open to junior roles in **application security, vulnerability research or security engineering** — Madrid or remote.
 
 [Website](https://al4an444.github.io) · [LinkedIn](https://linkedin.com/in/alan-o-b70724290) · [Instagram](https://www.instagram.com/_.alaaan._5/) · [alanortega7312@gmail.com](mailto:alanortega7312@gmail.com)
 
