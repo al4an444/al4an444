@@ -1,11 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t">
-  <title id="t">Alan Ortega Álamo — Cybersecurity · Vulnerability research</title>
-  <rect width="1200" height="340" fill="#0d1117"/>
-  <rect x="0" y="0" width="1200" height="8" fill="#f0f0f0"/>
-  <rect x="48" y="64" width="28" height="28" fill="#ef4444"/>
-  <text x="92" y="88" fill="#f0f0f0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="3">SECURITY RESEARCHER</text>
-  <text x="44" y="232" fill="#f5f5f5" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="112" font-weight="700" letter-spacing="-4" textLength="1108" lengthAdjust="spacingAndGlyphs">ALAN ORTEGA ÁLAMO</text>
-  <rect x="48" y="268" width="1104" height="3" fill="#f0f0f0"/>
-  <text x="48" y="306" fill="#9aa0a6" font-family="SF Mono, Consolas, DejaVu Sans Mono, monospace" font-size="20">grpc-go · CVSS 7.5 · fixed in v1.81.1</text>
-  <text x="1152" y="306" fill="#9aa0a6" font-family="SF Mono, Consolas, DejaVu Sans Mono, monospace" font-size="20" text-anchor="end">Madrid · remote</text>
+  <title id="t">Alan Ortega Álamo — Security researcher · Founder, NODUM Security</title>
+  <rect width="1200" height="340" fill="#0b0c0e"/>
+  <rect x="84" y="0" width="1" height="340" fill="#191d22"/>
+  <rect x="170" y="0" width="1" height="340" fill="#191d22"/>
+  <rect x="256" y="0" width="1" height="340" fill="#191d22"/>
+  <rect x="342" y="0" width="1" height="340" fill="#191d22"/>
+  <rect x="428" y="0" width="1" height="340" fill="#191d22"/>
+  <rect x="514" y="0" width="1" height="340" fill="#191d22"/>
+  <rect x="600" y="0" width="1" height="340" fill="#191d22"/>
+  <rect x="686" y="0" width="1" height="340" fill="#191d22"/>
+  <rect x="772" y="0" width="1" height="340" fill="#191d22"/>
+  <rect x="858" y="0" width="1" height="340" fill="#191d22"/>
+  <rect x="944" y="0" width="1" height="340" fill="#191d22"/>
+  <rect x="1030" y="0" width="1" height="340" fill="#191d22"/>
+  <rect x="1116" y="0" width="1" height="340" fill="#191d22"/>
+  <g font-family="SF Mono, JetBrains Mono, Consolas, DejaVu Sans Mono, monospace" font-size="15" letter-spacing="3.4" fill="#787f82">
+    <text x="84" y="68">SECURITY RESEARCHER · FOUNDER</text>
+    <text x="1116" y="68" text-anchor="end">MADRID · REMOTE</text>
+  </g>
+  <text x="82" y="198" fill="#e8e8e3" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="80" font-weight="400" textLength="1034" lengthAdjust="spacing">ALAN ORTEGA ÁLAMO</text>
+  <text x="85" y="242" fill="#9aa0a0" font-family="SF Mono, JetBrains Mono, Consolas, DejaVu Sans Mono, monospace" font-size="17" letter-spacing="1">Vulnerability research · penetration testing · responsible disclosure</text>
+  <text x="85" y="298" fill="#787f82" font-family="SF Mono, JetBrains Mono, Consolas, DejaVu Sans Mono, monospace" font-size="15" letter-spacing="1">grpc-go · protobuf-go · azure msi-acrpull</text>
+  <g transform="translate(946 276) scale(1.25)" fill="#e8e8e3">
+    <circle cx="6" cy="6" r="1.3"/><circle cx="12" cy="6" r="1.3"/><circle cx="6" cy="12" r="1.3"/><circle cx="12" cy="12" r="1.3"/><circle cx="18" cy="12" r="1.3"/><circle cx="6" cy="18" r="1.3"/><circle cx="12" cy="18" r="1.3"/><circle cx="18" cy="18" r="1.3"/><circle cx="20.2" cy="4.2" r="2" fill="#6e9fad"/>
+  </g>
+  <text x="1116" y="298" fill="#9aa0a0" font-family="SF Mono, JetBrains Mono, Consolas, DejaVu Sans Mono, monospace" font-size="17" letter-spacing="1.5" text-anchor="end">nodumsec.com</text>
 </svg>

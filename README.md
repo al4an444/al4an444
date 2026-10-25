@@ -1,12 +1,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Alan Ortega Álamo — Security researcher" src="assets/banner-light.svg" width="100%">
+  <img alt="Alan Ortega Álamo — Security researcher · Founder, NODUM Security" src="assets/banner-light.svg" width="100%">
 </picture>
 
 **Alan Ortega Álamo** — self-taught security researcher. I look for vulnerabilities in widely used software and disclose them responsibly.
+Founder of **[NODUM Security](https://nodumsec.com)** — penetration testing for SMEs, every finding verified by hand with a working proof of concept.
 Open to junior roles in **application security, vulnerability research or security engineering** — Madrid or remote.
 
-[Website](https://al4an444.github.io) · [LinkedIn](https://linkedin.com/in/alan-o-b70724290) · [Instagram](https://www.instagram.com/_.alaaan._5/) · [alanortega7312@gmail.com](mailto:alanortega7312@gmail.com)
+[NODUM Security](https://nodumsec.com) · [Website](https://al4an444.github.io) · [LinkedIn](https://linkedin.com/in/alan-o-b70724290) · [Instagram](https://www.instagram.com/_.alaaan._5/) · [alanortega7312@gmail.com](mailto:alanortega7312@gmail.com)
 
 ## Findings
 
